@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/msmucha18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shalha mucha" height="30" width="40" /></a>
-<a href="https://kaggle.com/shalha mucha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shalha mucha" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/shalhamucha18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shalha mucha" height="30" width="40" /></a>
 <a href="https://medium.com/@shalha_mucha18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shalha_mucha18" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/Shalha_Mucha18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shalha_mucha18" height="30" width="40" /></a>
 </p>
