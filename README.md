@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Md. Shalha Mucha</h1>
-<h3 align="center">A passionate Comparative programmer, AI/ML Developer </h3>
+<h3 align="center">A passionate Comparative programmer</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalha-mucha18&label=Profile%20views&color=0e75b6&style=flat" alt="shalha-mucha18" /> </p>
 
-- 🔭 I’m currently working on **Bengali Visual Question Answering**
+- 🔭 I’m currently working on **Linux Operating System **
 
-- 🌱 I’m currently learning **Large language model**
+- 🌱 I’m currently learning **Linux**
 
-- 👯 I’m looking to collaborate on **NLP**
+- 👯 I’m looking to collaborate on **ML**
 
 - 💬 Ask me about **ML, NLP, Data Science, and Career**
 
-- 📫 How to reach me **ms.mucha18@gmail.com**
+- 📫 How to reach me **shalha.mucha@gamil.com**
 
 - ⚡ Fun fact **❤️🎮⚽**
 
