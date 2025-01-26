@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalha-mucha18&label=Profile%20views&color=0e75b6&style=flat" alt="shalha-mucha18" /> </p>
 
-- 🔭 I’m currently working on **Linux Operating System **
+- 🔭 I’m currently working on Linux Operating System 
 
 - 🌱 I’m currently learning **Linux**
 
-- 👯 I’m looking to collaborate on **ML**
+- 👯 I’m looking to collaborate on **Python,System Administrator**
 
-- 💬 Ask me about **ML, NLP, Data Science, and Career**
+- 💬 Ask me about **Linux,Data Science, and Career**
 
 - 📫 How to reach me **shalha.mucha@gamil.com**
 
