@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalha-mucha18&label=Profile%20views&color=0e75b6&style=flat" alt="shalha-mucha18" /> </p>
 
-- 🔭 I’m currently working on the Linux Operating System 
+- 🔭 I’m currently working on the Agentic AI
 
-- 🌱 I’m currently learning **Linux**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👯 I’m looking to collaborate on **Python**
 
-- 💬 Ask me about **Linux, ML,Data Science, and Career**
+- 💬 Ask me about **NLP, ML,Data Science, and Career**
 
 - 📫 How to reach me **shalha.mucha@gamil.com**
 
