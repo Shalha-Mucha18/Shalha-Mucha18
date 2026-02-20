@@ -42,15 +42,6 @@ I build scalable AI solutions that transform business problems into production-r
 
 ---
 
-## ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-➡️ I write about **AI Engineering, LLMs, NLP, and ML Career Growth**
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
