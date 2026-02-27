@@ -8,7 +8,7 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
   <img src="https://komarev.com/ghpvc/?username=shalha-mucha18&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
----
+
 
 ## 👨‍💻 Professional Summary
 
@@ -21,16 +21,7 @@ Results-driven **Machine Learning Engineer** specializing in designing and deplo
 
 I build scalable AI solutions that transform business problems into production-ready systems.
 
----
-
-## 🔥 Technical Expertise
-
-**Languages:** Python  
-**ML/AI:** PyTorch, TensorFlow, Scikit-learn  
-**LLM Systems:** RAG, Prompt Engineering, Multi-Agent Architectures  
-**Data Stack:** Pandas, NumPy, SQL  
-**Deployment:** APIs, Model Optimization, Automation Workflows  
-**Tools:** Git, Linux  
+ 
 
 ---
 
