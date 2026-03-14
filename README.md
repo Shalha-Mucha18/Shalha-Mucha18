@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Shalha Mucha Mucha Bhuyan</h1>
+<h1 align="center">Hi 👋, I'm Md. Shalha Mucha Bhuyan</h1>
 <h3 align="center">A passionate ML/AI and Data Engineer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalha-mucha18&label=Profile%20views&color=0e75b6&style=flat" alt="shalha-mucha18" /> </p>
