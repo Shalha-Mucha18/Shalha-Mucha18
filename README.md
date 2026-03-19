@@ -13,7 +13,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=shalha-mucha18&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="trophies" />
 </p>
 
----
+
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
@@ -27,17 +27,16 @@
 - 📫 Reach me: **[shalha.mucha@gmail.com](mailto:shalha.mucha@gmail.com)**
 - ⚡ Fun fact: **I love to play Football**
 
----
 
-## 🌐 Connect with Me
 
-<p align="center">
+
+
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/shalhamucha18/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
   </a>
-</p>
+</p> -->
 
----
 
 ## ⚙️ Tech Stack
 
